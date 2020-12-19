@@ -3,7 +3,7 @@
 Team members: 
 - Diyue Gu (dg3198@columbia.edu, github: Ivygdy)
 - Jingyan Xu (jx2424p@columbia.edu, github: jx2424)
-- Yifei Zhang (yz3925@columbia.edu, github: jimmgZYF)
+- Yifei Zhang (yz3925@columbia.edu, github: jimmy-ZYF)
 - Chelsea Cui (ac4788@columbia.edu, github: acui34)
 - Yishi Wang (yw3619@columbia.edu, github: wangyis)
 
@@ -49,7 +49,7 @@ Project Folder:
 │   DL_recommend_df.csv
 │   MFRecommendation.csv
 │   content_based_recommend_df.csv
-│   cb_evaluation_df.
+│   cb_evaluation_df.csv
 │   mb_evaluation_df.csv
 │   hybrid_evaluation_df.csv
 │   dl_evaluation_df.csv
