@@ -62,16 +62,16 @@ The main report, including business objectives, model description, model compari
  For the ease of rebuilding the environment we used, we also included Notebook links below:
 
 - Main Report and Hybrid Model
-  - Link: https://colab.research.google.com/drive/1LKuJoyNW42HE80G2rVTkdNI3AgojzeB3?usp=sharing
+  - Link: (omitted)
 
 - Matrix Factorization Model and Baseline Model
-  - Link: https://colab.research.google.com/drive/1U5yt_IuVVl5CJmZtzObqbaZSCMOWdl2l?usp=sharing
+  - Link: (omitted)
 
 - Content-based Model
-  - Link: https://colab.research.google.com/drive/1473nhLVUojLyzlXNbRBieIq6APGl7O3p?usp=sharing
+  - Link: (omitted)
 
 - Deep Learning Model
-  - Link: https://colab.research.google.com/drive/1LsxuLngPmVNLclJrl4Vzsub3UY12FhPK?usp=sharing
+  - Link: (omitted)
 
 - Data Preparation
-  - Link: https://colab.research.google.com/drive/1RWPTFawW680AS-Wr0lCGgKLV8rMjOATt?usp=sharing
+  - Link: (omitted)
